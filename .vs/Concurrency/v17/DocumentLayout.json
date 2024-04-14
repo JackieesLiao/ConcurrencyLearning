@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ConcurrencyLearning\\Concurrency\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{82FA9B96-8F38-4E12-9145-03859A60DE61}|ConcurrencyQueue\\ConcurrencyQueue.vcxproj|D:\\ConcurrencyLearning\\Concurrency\\ConcurrencyQueue\\ThreadSafeUltimateWithVirNode.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{82FA9B96-8F38-4E12-9145-03859A60DE61}|ConcurrencyQueue\\ConcurrencyQueue.vcxproj|solutionrelative:ConcurrencyQueue\\ThreadSafeUltimateWithVirNode.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82FA9B96-8F38-4E12-9145-03859A60DE61}|ConcurrencyQueue\\ConcurrencyQueue.vcxproj|D:\\ConcurrencyLearning\\Concurrency\\ConcurrencyQueue\\ConcurrencyQueue.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{82FA9B96-8F38-4E12-9145-03859A60DE61}|ConcurrencyQueue\\ConcurrencyQueue.vcxproj|solutionrelative:ConcurrencyQueue\\ConcurrencyQueue.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82FA9B96-8F38-4E12-9145-03859A60DE61}|ConcurrencyQueue\\ConcurrencyQueue.vcxproj|D:\\ConcurrencyLearning\\Concurrency\\ConcurrencyQueue\\ThreadSafeQueue2.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{82FA9B96-8F38-4E12-9145-03859A60DE61}|ConcurrencyQueue\\ConcurrencyQueue.vcxproj|solutionrelative:ConcurrencyQueue\\ThreadSafeQueue2.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82FA9B96-8F38-4E12-9145-03859A60DE61}|ConcurrencyQueue\\ConcurrencyQueue.vcxproj|D:\\ConcurrencyLearning\\Concurrency\\ConcurrencyQueue\\ThreadSafeQueue.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{82FA9B96-8F38-4E12-9145-03859A60DE61}|ConcurrencyQueue\\ConcurrencyQueue.vcxproj|solutionrelative:ConcurrencyQueue\\ThreadSafeQueue.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82FA9B96-8F38-4E12-9145-03859A60DE61}|ConcurrencyQueue\\ConcurrencyQueue.vcxproj|D:\\ConcurrencyLearning\\Concurrency\\ConcurrencyQueue\\Stack.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{82FA9B96-8F38-4E12-9145-03859A60DE61}|ConcurrencyQueue\\ConcurrencyQueue.vcxproj|solutionrelative:ConcurrencyQueue\\Stack.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82FA9B96-8F38-4E12-9145-03859A60DE61}|ConcurrencyQueue\\ConcurrencyQueue.vcxproj|D:\\ConcurrencyLearning\\Concurrency\\ConcurrencyQueue\\FixStackEmptyErr.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{82FA9B96-8F38-4E12-9145-03859A60DE61}|ConcurrencyQueue\\ConcurrencyQueue.vcxproj|solutionrelative:ConcurrencyQueue\\FixStackEmptyErr.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ThreadSafeUltimateWithVirNode.hpp",
+              "DocumentMoniker": "D:\\ConcurrencyLearning\\Concurrency\\ConcurrencyQueue\\ThreadSafeUltimateWithVirNode.hpp",
+              "RelativeDocumentMoniker": "ConcurrencyQueue\\ThreadSafeUltimateWithVirNode.hpp",
+              "ToolTip": "D:\\ConcurrencyLearning\\Concurrency\\ConcurrencyQueue\\ThreadSafeUltimateWithVirNode.hpp",
+              "RelativeToolTip": "ConcurrencyQueue\\ThreadSafeUltimateWithVirNode.hpp",
+              "ViewState": "AQIAAEoAAAAAAAAAAAAawGsAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-14T05:35:38.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ThreadSafeQueue.hpp",
+              "DocumentMoniker": "D:\\ConcurrencyLearning\\Concurrency\\ConcurrencyQueue\\ThreadSafeQueue.hpp",
+              "RelativeDocumentMoniker": "ConcurrencyQueue\\ThreadSafeQueue.hpp",
+              "ToolTip": "D:\\ConcurrencyLearning\\Concurrency\\ConcurrencyQueue\\ThreadSafeQueue.hpp",
+              "RelativeToolTip": "ConcurrencyQueue\\ThreadSafeQueue.hpp",
+              "ViewState": "AQIAACEAAAAAAAAAAAAwwEAAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-14T04:44:28.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FixStackEmptyErr.hpp",
+              "DocumentMoniker": "D:\\ConcurrencyLearning\\Concurrency\\ConcurrencyQueue\\FixStackEmptyErr.hpp",
+              "RelativeDocumentMoniker": "ConcurrencyQueue\\FixStackEmptyErr.hpp",
+              "ToolTip": "D:\\ConcurrencyLearning\\Concurrency\\ConcurrencyQueue\\FixStackEmptyErr.hpp",
+              "RelativeToolTip": "ConcurrencyQueue\\FixStackEmptyErr.hpp",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAABYAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-14T04:24:33.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ConcurrencyQueue.cpp",
+              "DocumentMoniker": "D:\\ConcurrencyLearning\\Concurrency\\ConcurrencyQueue\\ConcurrencyQueue.cpp",
+              "RelativeDocumentMoniker": "ConcurrencyQueue\\ConcurrencyQueue.cpp",
+              "ToolTip": "D:\\ConcurrencyLearning\\Concurrency\\ConcurrencyQueue\\ConcurrencyQueue.cpp",
+              "RelativeToolTip": "ConcurrencyQueue\\ConcurrencyQueue.cpp",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAzwBsAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-14T04:22:00.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ThreadSafeQueue2.hpp",
+              "DocumentMoniker": "D:\\ConcurrencyLearning\\Concurrency\\ConcurrencyQueue\\ThreadSafeQueue2.hpp",
+              "RelativeDocumentMoniker": "ConcurrencyQueue\\ThreadSafeQueue2.hpp",
+              "ToolTip": "D:\\ConcurrencyLearning\\Concurrency\\ConcurrencyQueue\\ThreadSafeQueue2.hpp",
+              "RelativeToolTip": "ConcurrencyQueue\\ThreadSafeQueue2.hpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADcAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-14T05:25:02.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Stack.hpp",
+              "DocumentMoniker": "D:\\ConcurrencyLearning\\Concurrency\\ConcurrencyQueue\\Stack.hpp",
+              "RelativeDocumentMoniker": "ConcurrencyQueue\\Stack.hpp",
+              "ToolTip": "D:\\ConcurrencyLearning\\Concurrency\\ConcurrencyQueue\\Stack.hpp",
+              "RelativeToolTip": "ConcurrencyQueue\\Stack.hpp",
+              "ViewState": "AQIAABgAAAAAAAAAAAAgwCsAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-14T04:21:58.822Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

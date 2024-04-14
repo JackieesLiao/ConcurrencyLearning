@@ -15,12 +15,24 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="ThreadSafeQueue.hpp">
+      <Filter>头文件</Filter>
+    </ClCompile>
     <ClCompile Include="ConcurrencyQueue.cpp">
-      <Filter>源文件</Filter>
+      <Filter>资源文件</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Statck.hpp">
+    <ClInclude Include="Stack.hpp">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="FixStackEmptyErr.hpp">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ThreadSafeQueue2.hpp">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ThreadSafeUltimateWithVirNode.hpp">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>

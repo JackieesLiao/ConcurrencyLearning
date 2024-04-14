@@ -1,0 +1,11 @@
+﻿  ConcurrencyQueue.cpp
+D:\ConcurrencyLearning\Concurrency\ConcurrencyQueue\ConcurrencyQueue.cpp(28,16): warning C4267: “参数”: 从“size_t”转换到“T”，可能丢失数据
+D:\ConcurrencyLearning\Concurrency\ConcurrencyQueue\ConcurrencyQueue.cpp(28,16): warning C4267:         with
+D:\ConcurrencyLearning\Concurrency\ConcurrencyQueue\ConcurrencyQueue.cpp(28,16): warning C4267:         [
+D:\ConcurrencyLearning\Concurrency\ConcurrencyQueue\ConcurrencyQueue.cpp(28,16): warning C4267:             T=int
+D:\ConcurrencyLearning\Concurrency\ConcurrencyQueue\ConcurrencyQueue.cpp(28,16): warning C4267:         ]
+  ThreadSafeQueue.hpp
+  正在生成代码...
+  ConcurrencyQueue.vcxproj -> D:\ConcurrencyLearning\Concurrency\x64\Debug\ConcurrencyQueue.exe
+  'pwsh.exe' 不是内部或外部命令，也不是可运行的程序
+  或批处理文件。

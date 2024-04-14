@@ -128,9 +128,13 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="ConcurrencyQueue.cpp" />
+    <ClCompile Include="ThreadSafeQueue.hpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Statck.hpp" />
+    <ClInclude Include="FixStackEmptyErr.hpp" />
+    <ClInclude Include="Stack.hpp" />
+    <ClInclude Include="ThreadSafeQueue2.hpp" />
+    <ClInclude Include="ThreadSafeUltimateWithVirNode.hpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
