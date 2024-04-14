@@ -1,0 +1,30 @@
+﻿  Concurrency.cpp
+  Joining_thread.cpp
+D:\ConcurrencyLearning\Concurrency\Concurrency\Joining_thread.h(13,5): error C2661: “std::thread::thread”: 没有重载函数接受 2 个参数
+  (编译源文件“Concurrency.cpp”)
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\thread(92,28):
+  可能是“std::thread::thread(_Fn &&,_Args &&...)”
+  	D:\ConcurrencyLearning\Concurrency\Concurrency\Joining_thread.h(13,5):
+  	“std::thread::thread(_Fn &&,_Args &&...)”: 无法推导“__formal”的 模板 参数
+  		C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\thread(91,42):
+  		“std::enable_if_t<false,int>”: 未能使别名模板专用化
+  D:\ConcurrencyLearning\Concurrency\Concurrency\Joining_thread.h(13,5):
+  尝试匹配参数列表“(_Ty, _Ty)”时
+          with
+          [
+              _Ty=std::thread
+          ]
+          and
+          [
+              _Ty=int
+          ]
+  D:\ConcurrencyLearning\Concurrency\Concurrency\Joining_thread.h(13,5):
+  模板实例化上下文(最早的实例化上下文)为
+  	D:\ConcurrencyLearning\Concurrency\Concurrency\Concurrency.cpp(17,22):
+  	查看对正在编译的函数 模板 实例化“Joining_thread::Joining_thread<std::thread,int>(Callable &&,int &&)”的引用
+          with
+          [
+              Callable=std::thread
+          ]
+  
+  正在生成代码...

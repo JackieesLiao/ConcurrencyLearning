@@ -1,0 +1,7 @@
+﻿  CSP.cpp
+D:\ConcurrencyLearning\Concurrency\CSP\CSP.cpp(68,1): error C1001: 内部编译器错误。
+D:\ConcurrencyLearning\Concurrency\CSP\CSP.cpp(68,1): error C1001: (编译器文件“D:\a\_work\1\s\src\vctools\Compiler\CxxFE\sl\p1\c\error.h”，第 1291 行)
+D:\ConcurrencyLearning\Concurrency\CSP\CSP.cpp(68,1): error C1001:  要解决此问题，请尝试简化或更改上面所列位置附近的程序。
+D:\ConcurrencyLearning\Concurrency\CSP\CSP.cpp(68,1): error C1001: 如果可以，请在此处提供重现步骤: https://developercommunity.visualstudio.com 
+D:\ConcurrencyLearning\Concurrency\CSP\CSP.cpp(68,1): error C1001: 请选择 Visual C++
+D:\ConcurrencyLearning\Concurrency\CSP\CSP.cpp(68,1): error C1001: “帮助”菜单上的“技术支持”命令，或打开技术支持帮助文件来获得详细信息。
